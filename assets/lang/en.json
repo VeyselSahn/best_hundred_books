@@ -1,0 +1,11 @@
+{
+    "words": {
+        "title": "BestHundredBooks",
+        "wiki": "About The Book",
+        "next": "Next Page",
+        "previous": "Previous Page",
+        "details": "Details",
+        "changetheme": "Change Theme",
+        "changeLang": "Change Language"
+    }
+}
