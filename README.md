@@ -1,16 +1,4 @@
 # best_hundred_books
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1632051283](https://user-images.githubusercontent.com/79803069/133925964-88fa7878-dba4-4e1e-95e1-f657240cd462.png)
+![Screenshot_1632051293](https://user-images.githubusercontent.com/79803069/133925969-3509c59b-4628-48f9-98cb-60d5ed706ae8.png)
